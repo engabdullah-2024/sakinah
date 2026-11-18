@@ -43,6 +43,11 @@
       "typedRoutes": false,
       "reactCompiler": false
     },
-    "owner": "engabdullah2025"
+    "owner": "engabdullah2025",
+    "extra": {
+      "eas": {
+        "projectId": "eb4dccb7-fdb1-4465-a056-e0bd6694db0c"
+      }
+    }
   }
 }
