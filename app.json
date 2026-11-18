@@ -42,6 +42,7 @@
     "experiments": {
       "typedRoutes": false,
       "reactCompiler": false
-    }
+    },
+    "owner": "engabdullah2025"
   }
 }
